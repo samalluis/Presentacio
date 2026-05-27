@@ -19,7 +19,7 @@
 ##  Perfil de GitHub
 
 ###  README inicial personalitzat
-- Enllaç directe al perfil: `https://github.com/samalluis/samalluis`
+- Enllaç directe al perfil: [Enllaç](https://github.com/samalluis)
 - Descripció del que es mostra al perfil.
 - Com s'ha personalitzat (foto, badges, descripció).
 - Què vol transmetre el perfil a qui l'observa.
