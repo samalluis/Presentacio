@@ -29,7 +29,7 @@
 - Organització de carpetes dins dels repositoris.
 - Ordre i claredat de la informació.
 
-###  Repositoris principals del curs
+##  Repositoris principals del curs
 
  [Projecte 01: Arranquem]()
 
@@ -47,8 +47,7 @@
 
  [Projecte 08: Connecta’t al Futur](https://github.com/samalluis/Projecte8-Tasques) 
 
-###  Kanbans
-
+##  Kanbans
 
 ---
 
