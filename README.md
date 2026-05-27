@@ -5,40 +5,31 @@
 
 ---
 
-## 1. Presentació personal
+## Presentació personal
 
 - **nom:** Lluis Garcia Martinez.
 - **Breu context:** què m'ha portat a fer aquest cicle.
 - **Interessos principals dins de la informàtica:** xarxes, sistemes, seguretat, etc.
 - **Objectiu professional a curt termini:** Passar a un grau superior de Animacio 3D, jocs i Entorns Interactius (mons virtuals, realitat augmentada i gamificació), o DAMv (videojocs i oci digital )
 
----
 
-## 2. Índex 
-
-1. [Presentació del perfil de GitHub](#3-perfil-de-github)
-2. [Anàlisi de dos projectes seleccionats](#4-anàlisi-de-dos-projectes)
-3. [Defensa tècnica d’un projecte concret](#5-defensa-tècnica-del-projecte)
-4. [Metodologia de treball i planificació](#6-metodologia-de-treball)
-5. [Recuperació de RA’s pendents (si escau)](#7-recuperació-de-ras-pendents)
-6. [Conclusions i aprenentatges](#8-conclusions-i-aprenentatges)
 
 ---
 
-## 3. Perfil de GitHub
+##  Perfil de GitHub
 
-### 3.1. README inicial personalitzat
+###  README inicial personalitzat
 - Enllaç directe al perfil: `https://github.com/samalluis/samalluis`
 - Descripció del que es mostra al perfil.
 - Com s'ha personalitzat (foto, badges, descripció).
 - Què vol transmetre el perfil a qui l'observa.
 
-### 3.2. Estructura general del perfil
+###  Estructura general del perfil
 - Repositoris principals del curs.
 - Organització de carpetes dins dels repositoris.
 - Ordre i claredat de la informació.
 
-### 3.3. Repositoris principals del curs
+###  Repositoris principals del curs
 
  [Projecte 01: Arranquem]()
 
@@ -56,7 +47,7 @@
 
  [Projecte 08: Connecta’t al Futur](https://github.com/samalluis/Projecte8-Tasques) 
 
-### 3.4. Kanbans
+###  Kanbans
 
 
 ---
